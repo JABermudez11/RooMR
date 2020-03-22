@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  max_rent: 1
+  ideal_rent: 1
+  User: one
+
+two:
+  max_rent: 1
+  ideal_rent: 1
+  User: two
